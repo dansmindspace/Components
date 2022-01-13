@@ -4,7 +4,7 @@ Python Components
 
 Gtk3 Components (tls_gtk3)
 ---------------
-+ ### Preferences Menu | WIP 
+### Preferences Menu | WIP 
   > A simple interface that allows for creating and managing application
   > preferences using Gtk3 and JSON Strings
   > 
@@ -15,8 +15,15 @@ Gtk3 Components (tls_gtk3)
   > the user to manage them. If the JSON file is present when the interface is
   > invoked, the values from it will be used instead of the defaults.
   
-  TODO:
-  + Create JSON Template
-  + Create GUI Construction
-+ ### Enhanced Tree View | WIP
-  TODO: Needs to be ported from old projects
+TODO:
+
+[//]: # (todo Create the JSON Template)
++ Create the JSON Template
+
+[//]: # (todo Create the code to convert JSON Template to Gtk3 window w/ widgets)
++ Create the code to convert JSON Template to Gtk3 window w/ widgets
+### Enhanced Tree View | WIP
+TODO:
+
+[//]: # (todo Port and Refactor code from previous projects)
++ Port and Refactor code from previous projects
